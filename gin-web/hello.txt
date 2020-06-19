@@ -1,0 +1,2 @@
+<h1>你好</h1>
+<img id="i1" src="https://p1.ssl.qhimg.com/t016d3df7a6342d405f.jpg"/>
